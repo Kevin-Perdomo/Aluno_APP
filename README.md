@@ -64,9 +64,3 @@ Siga os passos abaixo para executar o projeto em seu ambiente local:
    ```bash
    git add .; git commit -m "Minha nova feature"
    ```
-
-4. Envie as alterações para o seu fork:
-   ```bash
-   git push origin minha-feature
-   ```
-   
