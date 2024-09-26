@@ -60,7 +60,12 @@ Siga os passos abaixo para executar o projeto em seu ambiente local:
    git checkout -b minha-feature
    ```
 
-3. Faça as alterações desejadas, depois use push e commit::
+3. Faça as alterações desejadas, depois publique para o repositório remoto:
    ```bash
-   git add .; git commit -m "Minha nova feature"
+    git add .; git commit -m "Minha nova feature"; git push; 
+   ```
+
+4. Mescle suas alterações para main:
+   ```bash
+    git merge minha_feature
    ```
